@@ -1,2 +1,0 @@
-this is 2.txt
-first edit 2.txt
