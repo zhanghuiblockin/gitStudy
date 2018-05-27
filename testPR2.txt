@@ -3,3 +3,8 @@
 
 3. 重作上次提交
 4. last commit
+
+6.git stash push
+
+a.commit1
+b.commit2
